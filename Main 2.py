@@ -30,7 +30,8 @@ from keras.models import load_model
 # mdn layer
 import mdn
 
-main_location = 'D:\\CSJ\\Tensorflow\\Keras-RNN'
+# main_location = 'D:\\CSJ\\Tensorflow\\Keras-RNN'
+main_location = 'G:\\CSJ\\Tensorflow\\Keras-RNN'
 
 # =============================================================================
 # Data set 준비 관련 parameter
